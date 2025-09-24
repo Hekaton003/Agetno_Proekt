@@ -1,0 +1,14 @@
+[{
+  "model": "TD3",
+  "learning_rate":  0.00046195356611484443,
+  "batch_size":  256,
+  "gamma": 0.8820859741927438,
+  "racetrack_version": "v1"
+},
+{
+  "model": "TD3",
+  "learning_rate":  0.00034896690956514085,
+  "batch_size":  200,
+  "gamma": 0.7211028393970405,
+  "racetrack_version": "v2"
+}]

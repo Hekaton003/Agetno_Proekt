@@ -1,0 +1,15 @@
+[{
+  "model": "SAC",
+  "learning_rate": 0.0001523513515776626,
+  "batch_size": 256,
+  "gamma":0.9639406116970619,
+  "racetrack_version": "v1"
+},
+{
+  "model": "SAC",
+  "learning_rate": 0.0028332352176262897,
+  "batch_size": 256,
+  "gamma":0.9943543986163065,
+  "racetrack_version": "v2"
+}
+]

@@ -1,0 +1,16 @@
+[
+  {
+  "model": "PPO",
+  "learning_rate": 0.00019068346547025233,
+  "batch_size": 256,
+  "gamma": 0.5783154221802407,
+  "racetrack_version": "v1"
+  },
+  {
+  "model": "PPO",
+  "learning_rate": 0.00047063890925255763,
+  "batch_size": 64,
+  "gamma": 0.7195842954685933,
+  "racetrack_version": "v2"
+  }
+]
