@@ -2,7 +2,7 @@
 
 ## Overview 
 This repository contains code for training and evaluating reinforcement learning models provided by the Stable Baselines3 library. The primary focus is on training models for racetrack-v0,intersection-v1 and roundabout-v0 environments using various DRL algorithms 
-such as PPO, SAC, and TD3.
+such as PPO, SAC, and TD3. For more details, see my [research paper](https://drive.google.com/file/d/1NTcBiVt9E1N-KrLUqvGOrhM_3aIlTXnu/view?usp=sharing)
 
 ## Project Structure
 ```                   
